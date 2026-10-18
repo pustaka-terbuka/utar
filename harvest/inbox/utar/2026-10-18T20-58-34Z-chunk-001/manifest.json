@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "utar",
+  "source_name": "UTAR Library (Universiti Tunku Abdul Rahman)",
+  "source_base_url": "https://library.utar.edu.my/",
+  "terms_url": "https://library.utar.edu.my/",
+  "terms_verified_on": "2026-10-18",
+  "harvester_name": "utar-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-18T20-58-34Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-18T21:01:00.402Z",
+  "finished_at": "2026-10-18T21:01:00.402Z",
+  "record_count": 0,
+  "error_count": 0,
+  "status": "partial",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/utar; contact@pustakaterbuka.org)",
+  "notes": "UTAR harvest completed. Total: 0 records."
+}
